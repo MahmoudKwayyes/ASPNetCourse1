@@ -63,7 +63,7 @@ namespace LinqDemo
                 .ToList();
 
             //Console.WriteLine(result.FirstName);
-            printCustomersData(result);
+            //printCustomersData(result);
 
 
         }
